@@ -30,7 +30,7 @@ Seção “Sobre” – Mensagem motivacional *“O Sucesso é uma decisão.”*
 
 ## 📽 Demonstração
 <p align="center">
-  <img src="video/cassia-lima.gif" alt="Demonstração do Instituto Educacional Lima Caires" width="700"/>
+  <img src="video/cassia.gif" alt="Demonstração do Instituto Educacional Lima Caires" width="700"/>
 </p>
 
 <p align="center">
