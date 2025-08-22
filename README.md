@@ -34,7 +34,7 @@ Seção “Sobre” – Mensagem motivacional *“O Sucesso é uma decisão.”*
 </p>
 
 <p align="center">
-  <video src="video/cassia-lima.mp4" autoplay muted playsinline width="100%">
+  <video src="video/cassia.gif" autoplay muted playsinline width="100%">
     Seu navegador não suporta a tag de vídeo HTML5.
   </video>
 </p>
