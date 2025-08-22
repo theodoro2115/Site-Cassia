@@ -9,9 +9,9 @@ Site institucional desenvolvido para divulgar cursos técnicos, superiores, EAD 
 ------
 Front-end: HTML5, CSS3, JavaScript
 
-Back-end: (não identificado — sugira tecnologias como Flask, Django, PHP, Node.js conforme seu stack)
+Back-end: Python (Flask)
 
-Banco de Dados: (não identificado — SQLite, MySQL, etc., caso aplicável)
+Banco de Dados: SQLite
 
 Ferramentas: Git, Responsive Design, Integração com APIs (WhatsApp, redes sociais)
 ------
@@ -22,11 +22,26 @@ Seção de Cursos – Listagem organizada por modalidade (Licenciatura, Tecnólo
 
 Valores e Duração – Informações claras sobre preços e tempo de curso
 
-Contato Direto – WhatsApp, e-mail, redes sociais disponíveis com fácil acesso
+Contato Direto – WhatsApp, e-mail e redes sociais integrados
 
-Seção “Sobre” – Mensagem motivacional “O Sucesso é uma decisão.” reforçando a missão
+Seção “Sobre” – Mensagem motivacional *“O Sucesso é uma decisão.”* reforçando a missão
 
-## ​ Link da Aplicação
+---
+
+## 📽 Demonstração
+<p align="center">
+  <img src="video/cassia-lima.gif" alt="Demonstração do Instituto Educacional Lima Caires" width="700"/>
+</p>
+
+<p align="center">
+  <video src="video/cassia-lima.mp4" autoplay muted playsinline width="100%">
+    Seu navegador não suporta a tag de vídeo HTML5.
+  </video>
+</p>
+
+---
+
+## 🔗 Link da Aplicação
 
 Acesse o site agora mesmo:
 
@@ -34,12 +49,13 @@ Acesse o site agora mesmo:
 
 ---
 
-##  Estrutura de Arquivos (sugestão)
+📦 Estrutura de Arquivos
+--------
 ```text
 instituto-educacional-lima-caires/
 ├── index.html             # Página principal com listagem de cursos
 ├── styles.css             # Estilos e layout do site
-├── script.js              # Interações e comportamentos dinâmicos (se aplicável)
-├── imagens/               # Logos, fotos da Cássia, ícones visuais
-├── contatos/              # Recursos de integração (WhatsApp, redes sociais)
-└── favicon.ico            # Ícone para navegadores
+├── script.js              # Interações e comportamentos dinâmicos
+├── imagens/               # Logos, fotos, ícones visuais
+├── video/                 # GIFs e vídeos de demonstração
+└── favicon.ico            # Ícone do site
